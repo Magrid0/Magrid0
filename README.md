@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Magrid</h1>
-<h3 align="center">A Developer wannabe developer from Italy</h3>
+<h3 align="center">A Developer wannabe from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magrid0&label=Profile%20views&color=0e75b6&style=flat" alt="magrid0" /> </p>
 
