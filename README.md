@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Tl;Dr](https://github.com/tldr-pages/tldr)
 
+- 🌌 Feel free to suggest me some projects to contribute to
+
 - 🌱 I’m currently learning **Git and Markdown**
 
 - 📫 How to reach me **marcotulli.mario1@gmail.com**
