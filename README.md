@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magrid0" alt="magrid0" /></a> </p>
 
-- 🔭 I’m currently working on [Tl;Dr](https://github.com/tldr-pages/tldr)
+- 🔭 I’m currently working on: [Tl;Dr](https://github.com/tldr-pages/tldr)
 
 - 🌌 Feel free to suggest me some projects to contribute to
 
-- 🌱 I’m currently learning **Git and Markdown**
+- 🌱 I’m currently learning: **Git and Markdown**
 
-- 📫 How to reach me **marcotulli.mario1@gmail.com**
+- 📫 How to reach me: **N/A**
 
 <p align="left">
 </p>
