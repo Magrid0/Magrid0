@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning: **Git and Markdown**
 
-- 📫 How to reach me: **N/A**
+- 📫 How to reach me: **Magrid0@proton.me**
 
 <p align="left">
 </p>
