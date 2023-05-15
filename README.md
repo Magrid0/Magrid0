@@ -9,7 +9,7 @@
 
 - 🌌 Feel free to suggest me some projects to contribute to
 
-- 🌱 I’m currently learning: **Git and Markdown**
+- 🌱 I’m currently learning: **Java**
 
 - 📫 How to reach me: **Magrid0@proton.me**
 
