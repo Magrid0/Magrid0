@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magrid0" alt="magrid0" /></a> </p>
 
-- 🔭 I’m currently working on: [Tl;Dr](https://github.com/tldr-pages/tldr)
+- 🔭 I’m currently working on: N/A
 
 - 🌌 Feel free to suggest me some projects to contribute to
 
-- 🌱 I’m currently learning: **Java**
+- 🌱 I’m currently learning: **N/A**
 
 - 📫 How to reach me: **Magrid0@proton.me**
 
