@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Magrid</h1>
 <h3 align="center">A Developer wannabe from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magrid0&label=Profile%20views&color=0e75b6&style=flat" alt="magrid0" /> </p>
+<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=magrid0&label=Profile%20views&color=0e75b6&style=flat" alt="magrid0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magrid0" alt="magrid0" /></a> </p>
 
@@ -23,5 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magrid0&show_icons=true&theme=dracula&locale=en" alt="magrid0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magrid0&" alt="magrid0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magrid0&" alt="magrid0" /></p>3>
+
+</center>
 
