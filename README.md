@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hi, I'm Magrid</h1>
-<h3 align="center">A Developer wannabe from Italy</h3>
+![My Image](GH_Banner.jpg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Magrid0&icon=5&color=11)](https://visitcount.itsvg.in)
