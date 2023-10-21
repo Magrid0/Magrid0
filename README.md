@@ -18,6 +18,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Magrid0&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 📌 HoloPin Badge
+[![An image of @magrid0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/magrid0)](https://holopin.io/@magrid0)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Magrid0&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
