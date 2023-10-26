@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Magrid0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Magrid0&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
+![trophies widget](https://github-profile-trophy.vercel.app/?username=Magrid0&column=-1&bg=false)
 
 ## 📌 HoloPin Badge
 [![An image of @magrid0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/magrid0)](https://holopin.io/@magrid0)
