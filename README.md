@@ -3,6 +3,8 @@
 ![My Image](GH_Banner.jpg)
 
 ---
+Org owner of [TlDr-Pages](https://github.com/tldr-pages)
+---
 [![](https://visitcount.itsvg.in/api?id=Magrid0&icon=5&color=11)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
