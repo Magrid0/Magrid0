@@ -22,7 +22,4 @@ Org member of [TlDr-Pages](https://github.com/tldr-pages)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Magrid0&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/-light_yagami) 
-
 </div>
