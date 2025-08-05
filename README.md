@@ -3,7 +3,7 @@
 ![My Image](GH_Banner.jpg)
 
 ---
-Org member of [TlDr-Pages](https://github.com/tldr-pages)
+Org member of [TL;DR-Pages](https://github.com/tldr-pages)
 ---
 [![](https://visitcount.itsvg.in/api?id=Magrid0&icon=5&color=11)](https://visitcount.itsvg.in)
  
