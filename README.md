@@ -1,7 +1,7 @@
 <div align="center">
 
 ![My Image](GH_Banner.jpg)
----
+
 [![](https://visitcount.itsvg.in/api?id=Magrid0&icon=5&color=11)](https://visitcount.itsvg.in)
  
 # 💻 Tech Stack:
